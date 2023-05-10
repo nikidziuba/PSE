@@ -10,3 +10,6 @@ The save file is backed up automatically every time you open it.
 ### Edit Your Save On Your Own Risk!
 
 ![image](/images/image1.png?) 
+
+
+The binary is compiled using auto-py-to-exe
